@@ -1,0 +1,22 @@
+{
+  "name": "time-map",
+  "version": "1.0.0",
+  "description": "\"# timemap\" \r Track time spent on activities and visualize how you use your computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuckermiller/timemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuckermiller/timemap/issues"
+  },
+  "homepage": "https://github.com/tuckermiller/timemap#readme",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
